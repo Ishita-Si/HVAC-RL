@@ -1,0 +1,8 @@
+gymnasium>=0.29
+stable-baselines3>=2.3
+torch
+numpy
+pandas
+matplotlib
+streamlit
+tensorboard
